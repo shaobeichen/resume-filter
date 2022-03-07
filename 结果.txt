@@ -1,17 +1,1 @@
-【前端开发工程师_上海】villay 4年.pdf 小程序*1 TypeScript*1 Vue*3 webpack*1 Java*1 
-【前端开发工程师_上海】任晟静 5年.pdf Vue*5 React*8 webpack*4 Plugin*2 Loader*2 Java*1 
-【前端开发工程师_上海】唐葛 3年.pdf  
-【前端开发工程师_上海】商文敏 7年.pdf SSR*1 webpack*2 
-【前端开发工程师_上海】孙乐 8年.pdf  
-【前端开发工程师_上海】孙振民 4年.pdf 小程序*1 uni-app*1 Vue*3 React*3 webpack*6 Express*1 
-【前端开发工程师_上海】常琦隆 3年.pdf 小程序*2 
-【前端开发工程师_上海】张晓静 5年.pdf Vue*1 
-【前端开发工程师_上海】王丹丹 3年.pdf 小程序*6 uni-app*3 Vue*12 Java*3 
-【前端开发工程师_上海】王坤龙 4年.pdf uni-app*1 Vue*13 Java*2 
-【前端开发工程师_上海】王辰清 4年.pdf  
-【前端开发工程师_上海】王高峰 3年.pdf 小程序*6 uniapp*8 uni-app*1 Vue*6 webpack*4 
-【前端开发工程师_上海】蔡继周 3年.pdf 小程序*2 uniapp*1 uni-app*1 Vue*2 Java*1 
-【前端开发工程师_上海】袁艺瑄 3年.pdf 小程序*7 uniapp*3 Vue*7 埋点*2 Java*1 
-【前端开发工程师_上海】贾统林 4年.pdf uni-app*2 Vue*1 webpack*5 Koa*1 
-【前端开发工程师_上海】黄中原 5年.pdf 小程序*8 uniapp*1 Vue*2 webpack*3 Java*1 
-【高级前端开发工程师_上海】吴浩 5年.pdf 小程序*12 Taro*1 Vue*9 React*3 埋点*2 Express*1 Java*1 
+xxx 5年.pdf 小程序*12 taro*2 ts*2 vue*13 react*3 埋点*2 express*1 java*1 

@@ -6,7 +6,7 @@ const getKeywords = (keywordsFileName) => {
   const keywordsText = fs.readFileSync(keywordsFileName)
   const keywords = keywordsText.toString().split('\r\n')
   const initKeywordsObject = keywords.map((keyword) => {
-    return { name: keyword, count: 0 }
+    return { name: keyword.toLowerCase(), count: 0 }
   })
   // console.log(initKeywordsObject)
   return initKeywordsObject
@@ -41,7 +41,7 @@ const readdir = async (dir, keywords) => {
       if (res) {
         const keywordsResult = keywords
           .map((v, i) => {
-            const match = res.match(new RegExp(v.name, 'g'))
+            const match = res.toLowerCase().match(new RegExp(v.name, 'g'))
             if (match) {
               const count = match.filter((v) => v).length
               // console.log(`${v.name}*${count}`)
